@@ -1,0 +1,19 @@
+h1{
+	
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+h2{
+	padding:10px;
+	color:#4aaaa5;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+#footer{
+	color: #4aaaa5;
+}
+.aboutMeImage{
+
+	height:25em;
+	width: 25em;
+}
