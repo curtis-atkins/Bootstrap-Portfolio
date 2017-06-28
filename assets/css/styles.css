@@ -1,19 +1,53 @@
-h1{
-	
-	color: #4aaaa5;
-	font-family: 'Georgia', Times, 'Times New Roman', serif;
+h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
-h2{
-	padding:10px;
-	color:#4aaaa5;
-	font-family: 'Georgia', Times, 'Times New Roman', serif;
+h2 {
+    padding: 10px;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+h3 {
+    margin-bottom: 1em;
+}
+.aboutMeImage {
+    margin-bottom: 20px;
+    height: 15em;
+    width: 15em;
+}
+.connectMeImage {
+    margin: 15px;
+    height: 5em;
+    width: 5em;
+}
+.portfolioImage {
+    height: 15em;
+    width: 15em;
+}
+#footer {
+    color: #4aaaa5;
+    height: 2em;
+}
+.footerP {
+    margin-top: 1em;
 }
 
-#footer{
-	color: #4aaaa5;
-}
-.aboutMeImage{
+/* Custom, iPhone Retina */
 
-	height:25em;
-	width: 25em;
-}
+@media only screen and (min-width: 320px) {}
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (min-width: 480px) {}
+
+/* Small Devices, Tablets */
+
+@media only screen and (min-width: 768px) {}
+
+/* Medium Devices, Desktops */
+
+@media only screen and (min-width: 992px) {}
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (min-width: 1200px) {}
